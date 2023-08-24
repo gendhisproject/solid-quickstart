@@ -9,10 +9,10 @@ export default function Home() {
       <Counter />
       <p>
         Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
+        <a href="https://endrahx.com" target="_blank">
           start.solidjs.com
         </a>{" "}
-        to learn how to build SolidStart apps.
+        to learn WordPress Tutorial Beginner.
       </p>
     </main>
   );
