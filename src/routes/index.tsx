@@ -10,7 +10,7 @@ export default function Home() {
       <p>
         Visit{" "}
         <a href="https://endrahx.com" target="_blank">
-          start.solidjs.com
+          endrahx.com
         </a>{" "}
         to learn WordPress Tutorial Beginner.
       </p>
